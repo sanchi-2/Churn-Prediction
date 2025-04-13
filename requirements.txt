@@ -1,0 +1,6 @@
+numpy
+pandas
+matplotlib
+decisiontreeclassifier
+streamlit
+scikit-learn
